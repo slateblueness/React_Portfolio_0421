@@ -1,0 +1,32 @@
+.active-style{
+    text-decoration: none;
+    font-weight: bolder;
+    color: royalblue;
+}
+
+.header-style{
+    width: 400px;
+    margin: auto;
+    padding: 20px 200px;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 2px solid darkgray;
+}
+
+.link-style{
+    text-decoration: none;
+}
+
+.logo-img, .fruit-img{
+    width: 500px;
+    height: 300px;
+}
+
+.story-list{
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+    margin: auto;
+    font-size: 1.1rem;
+}
